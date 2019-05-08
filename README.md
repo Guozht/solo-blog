@@ -10,6 +10,7 @@ GStone 的个人博客
 
 ### 最新
 
+* [H.264 编码学习](http://sync.homedata.ltd/articles/2019/05/08/1557285966433.html)
 * [DuiLib 布局使用](http://sync.homedata.ltd/articles/2019/04/21/1555864678826.html)
 * [Duilib 资源文件详解](http://sync.homedata.ltd/articles/2019/04/16/1555442383971.html)
 * [Linux Centos7 安装libudev](http://sync.homedata.ltd/articles/2019/04/16/1555405064301.html)
